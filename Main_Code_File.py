@@ -1,4 +1,3 @@
-
 from Three_robot_functions import cp_field_value, first_map_update, matching, get_level, all_good_values
 from Three_robot_functions import motion_deciding_function, var_update, adj_field_value
 from all_long_codes import robot1, robot2, robot3, robot4, robot5
